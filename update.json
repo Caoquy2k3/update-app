@@ -2,12 +2,12 @@
   "jsonVersion": 1,
   "version": {
     "code": 268,
-    "name": "2.6.9"
+    "name": "2.7.1"
   },
   "update": {
     "enabled": true,
     "force": false,
-    "url": "https://github.com/trung123/MyAppUpdate/releases/download/v1.1.0/app-release.apk"
+    "url": "https://drive.google.com/file/d/1N-egxkjvJun3NYp-exChdC6DURPFrm7Y/view?usp=drive_link"
   },
   "message": "Sửa lỗi và tối ưu hiệu năng"
 }
