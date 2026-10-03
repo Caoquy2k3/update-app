@@ -6,7 +6,7 @@
   },
   "update": {
     "enabled": true,
-    "force": true,
+    "force": false,
     "url": "https://github.com/trung123/MyAppUpdate/releases/download/v1.1.0/app-release.apk"
   },
   "message": "Sửa lỗi và tối ưu hiệu năng"
