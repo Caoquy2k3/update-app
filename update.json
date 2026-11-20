@@ -1,13 +1,13 @@
 {
   "jsonVersion": 1,
   "version": {
-    "code": 276,
-    "name": "2.7.6"
+    "code": 277,
+    "name": "2.7.7"
   },
   "update": {
     "enabled": true,
     "force": false,
-    "url": "https://drive.usercontent.google.com/download?id=1NOWvZoCZnEz-eJqRsbjWmyRb7UvFW9sj&export=download&authuser=0"
+    "url": "https://drive.usercontent.google.com/download?id=13Yirf2os9ZRLTyPFKVnan58qvALF_SQM&export=download&authuser=0"
   },
   "message": "update mà còn phiên bản cũ thì tải từ link đi update thêm tool reg page pro5"
 }
