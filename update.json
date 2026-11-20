@@ -1,8 +1,8 @@
 {
   "jsonVersion": 1,
   "version": {
-    "code": 277,
-    "name": "2.7.7"
+    "code": 276,
+    "name": "2.7.6"
   },
   "update": {
     "enabled": true,
