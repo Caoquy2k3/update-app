@@ -6,12 +6,12 @@
   "force_update": false,
   "title": "Đã có phiên bản mới",
   "message": "Phiên bản mới đã được phát hành. Vui lòng cập nhật để trải nghiệm các tính năng mới và sửa lỗi.",
-  "download_url": "https://drive.google.com/file/d/1hRRJGtY_X6PjOZAvWAC1y1jqtFxi1n2_/view?usp=sharing",
+  "download_url": "https://drive.usercontent.google.com/download?id=1PWGLhWqf-X5WPOrf74MhAufs1srzBPgR&export=download&authuser=0",
   "file_size": "29 MB",
   "release_date": "2026-11-03",
   "changelog": [
-    "fix lỗi các kênh ko load dc mã downlder app  mã [1370681]",
-    "link aftv.news/1370681",
+    "fix lỗi 1 sô ko phát âm thanh các kênh ko load dc mã downlder app  mã [3542370]",
+    "link http://aftv.news/3542370",
     "vẫm vào nút cập nhạt là chuyển thẳng qua link gốc"
   ]
 }
