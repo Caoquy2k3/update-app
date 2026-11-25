@@ -1,17 +1,17 @@
 
 {
-  "version_code": 7,
-  "version_name": "1.0.5",
+  "version_code": 8,
+  "version_name": "1.0.6",
   "update_available": true,
   "force_update": false,
   "title": "Đã có phiên bản mới",
   "message": "Phiên bản mới đã được phát hành. Vui lòng cập nhật để trải nghiệm các tính năng mới và sửa lỗi.",
-  "download_url": "https://drive.google.com/file/d/1FCgSRPwoNIOFkIWbsytlmDCYMdGz_nS6/view?usp=sharing",
+  "download_url": "https://drive.google.com/file/d/1hRRJGtY_X6PjOZAvWAC1y1jqtFxi1n2_/view?usp=sharing",
   "file_size": "29 MB",
   "release_date": "2026-11-03",
   "changelog": [
-    "sưả lai link iptv",
-    "Sửa một số lỗi trong phiên bản trước",
-    "Tối ưu giao diện và trải nghiệm người dùng"
+    "fix lỗi các kênh ko load dc mã downlder app  mã [1370681]",
+    "link aftv.news/1370681",
+    "vẫm vào nút cập nhạt là chuyển thẳng qua link gốc"
   ]
 }
