@@ -1,17 +1,17 @@
 
 {
-  "version_code": 9,
-  "version_name": "1.0.7",
+  "version_code": 10,
+  "version_name": "1.0.8",
   "update_available": true,
   "force_update": false,
   "title": "Đã có phiên bản mới",
   "message": "Phiên bản mới đã được phát hành. Vui lòng cập nhật để trải nghiệm các tính năng mới và sửa lỗi.",
-  "download_url": "https://drive.usercontent.google.com/download?id=1PWGLhWqf-X5WPOrf74MhAufs1srzBPgR&export=download&authuser=0",
+  "download_url": "https://drive.google.com/file/d/1gEtljMJmk4tooL9mdFszEORtCDvykCU9/view?usp=sharing",
   "file_size": "29 MB",
   "release_date": "2026-11-03",
   "changelog": [
-    "fix lỗi 1 sô ko phát âm thanh các kênh ko load dc mã downlder app  mã [3542370]",
-    "link http://aftv.news/3542370",
+    "fix lỗi 1 sô ko phát âm thanh các kênh ko load dc mã downlder app  mã [4386618]",
+    "link http://aftv.news/4386618",
     "vẫm vào nút cập nhạt là chuyển thẳng qua link gốc"
   ]
 }
